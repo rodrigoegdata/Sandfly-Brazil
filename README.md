@@ -10,6 +10,6 @@ This repository [Sand fly distribution in Brazil]() contains four files made to 
 
 2. [**especies_flebotomineos_brasil.xlsx**](https://github.com/rodrigoegdata/Sandfly-Brazil/blob/main/especies_flebotomineos_brasil.xlsx) - Excel file containing all the transformation and tidying process used to make a table with the sand fly distribution. \*Document in pt/br
 
-3. [**Sandflies_Brazil_2024.pbix**](https://github.com/rodrigoegdata/Sandfly-Brazil/blob/main/Sandflies_Brazil_2024.pbix) - PowerBI dashboard with all know distributions of sand flies in Brazil. \*Document in pt/br
+3. [**Sandflies_Brazil_2024.pbix**](https://github.com/rodrigoegdata/Sandfly-Brazil/blob/main/Sandflies_Brazil_2024.pbix) - PowerBI dashboard with all known distributions of sand flies in Brazil. \*Document in pt/br
 
 4. [**README.md**](https://github.com/rodrigoegdata/Sandfly-Brazil/blob/main/README.md) - explains the files present in this repository.
